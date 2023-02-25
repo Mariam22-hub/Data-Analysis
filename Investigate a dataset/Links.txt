@@ -1,0 +1,21 @@
+github repositories i took as my reference: https://github.com/ksatola/Medical-Appointments-No-Shows/blob/master/no-shows-ks4-final.ipynb
+sites:
+- https://www.geeksforgeeks.org/plotting-multiple-bar-charts-using-matplotlib-in-python/
+- https://stackoverflow.com/questions/22276066/how-to-plot-multiple-functions-on-the-same-figure-in-matplotlib
+- https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/
+- https://www.analyticsvidhya.com/blog/2021/08/understanding-bar-plots-in-python-beginners-guide-to-data-visualization/
+- https://stackoverflow.com/questions/74137818/how-to-display-bars-for-0-value-in-matplotlib
+- https://www.geeksforgeeks.org/add-a-border-around-histogram-bars-in-matplotlib/
+- https://www.geeksforgeeks.org/adding-labels-to-histogram-bars-in-matplotlib/
+- https://www.geeksforgeeks.org/bar-plot-in-matplotlib/
+- https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
+- https://hersanyagci.medium.com/detecting-and-handling-outliers-with-pandas-7adbfcd5cad8
+- https://stackoverflow.com/questions/52676426/how-to-set-transparency-and-background-colour-for-a-pie-chart-matplotlib
+- https://medium.com/@kvnamipara/a-better-visualisation-of-pie-charts-by-matplotlib-935b7667d77f
+- https://www.geeksforgeeks.org/plot-a-pie-chart-in-python-using-matplotlib/
+- https://stackoverflow.com/questions/6170246/how-do-i-use-matplotlib-autopct
+
+- python version: 3.9.12
+- numpy vesrion: 1.21.5
+- matplotlib version: 3.5.1
+- pandas version: 1.4.2
